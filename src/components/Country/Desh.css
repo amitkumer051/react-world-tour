@@ -1,0 +1,11 @@
+.desh{
+    border: 2px solid rgb(4, 184, 255);
+    margin: 15px;
+    padding:15px;
+    border-radius: 15px;
+}
+
+.img-size{
+    width: 200px;
+    height: 120px;
+}
